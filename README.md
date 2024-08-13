@@ -3,13 +3,17 @@
 
 **这里是 SDYZZY，来自中国科学技术大学物理学院天文学系🔭。**
 
-+ 🔭 I’m currently working on gravitational-wave astrophysics.
-+ 📖 I’m currently learning:
-	+ ![](https://img.shields.io/badge/The%20Physics%20of%20Compact%20Objects-Black%20Holes,%20White%20Dwarfs%20and%20Neutron%20Stars%20by%20Stuart%20L.%20Shapiro%20&%20John%20Wiley-orange?style=flat&logo=stellar)
-	+ ![](https://img.shields.io/badge/Cosmology-Physical%20foundations%20of%20Cosmology%20by%20V.Mukhanov-orange?style=flat&logo=electron)
-	<!--+ ![](https://img.shields.io/badge/Large%20Scale%20Structure%20of%20Universe-Galaxy%20Formation%20and%20Evolution%20by%20Houjun%20Mo%20et%20al.-orange?style=flat&logo=appveyor)-->
-	+ ![](https://img.shields.io/badge/Python-v3.10-blue?style=flat&logo=python)
-	+ ![](https://img.shields.io/badge/Algorithm-A%20lot%20of%20referecne%20books-blue?style=flat&logo=github)
+🔭 I’m currently working on gravitational-wave astrophysics.
+
+📖 I’m currently learning:
+
++ ![](https://img.shields.io/badge/Physical%20Cosmology-Modern%20Cosmology%20by%20Scott%20Dodelson-orange?style=flat&logo=stellar)
++ ![](https://img.shields.io/badge/Large%20Scale%20Structure%20in%20the%20Universe-Galaxy%20Formation%20and%20Evolution-orange?style=flat&logo=stellar)
++ ![](https://img.shields.io/badge/Fundamentals%20of%20Plasma%20Astrophysics-Waves%20in%20plasmas%20by%20T.%20Stix-orange?style=flat&logo=stellar)
++ ![](https://img.shields.io/badge/Algorithm-A%20lot%20of%20referecne%20books-blue?style=flat&logo=github)
+<!--+ ![](https://img.shields.io/badge/Python-v3.12-blue?style=flat&logo=python)-->
+<!--+ ![](https://img.shields.io/badge/Cosmology-Physical%20foundations%20of%20Cosmology%20by%20V.Mukhanov-orange?style=flat&logo=electron)-->
+<!--+ ![](https://img.shields.io/badge/Large%20Scale%20Structure%20of%20Universe-Galaxy%20Formation%20and%20Evolution%20by%20Houjun%20Mo%20et%20al.-orange?style=flat&logo=appveyor)-->
 
 
 
