@@ -1,5 +1,5 @@
 ### Hello World! 
-**I'm SDYZZY, an undergraduate form Department of Astronomy, University of Science and Technology of China.**
+**I'm SDYZZY, an undergraduate from Department of Astronomy, University of Science and Technology of China.**
 
 **这里是 SDYZZY，来自中国科学技术大学物理学院天文学系🔭。**
 
@@ -23,6 +23,13 @@
 
 
 ![](https://github-readme-stats.vercel.app/api?username=SDYZZY)
+<div align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SDYZZY&hide_border=true&layout=compact" align="center" /></div>
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=SDYZZY&&style=flat-square" align="center" />
+</div>  
+
+
 
 <!--
 **SDYZZY/SDYZZY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
